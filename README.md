@@ -49,7 +49,7 @@ python run_pipeline.py
 🧾 Credits
 This work builds upon the excellent open-source project Gs2Mesh by @limacv, which generates watertight 3D meshes from sparse point clouds using signed distance fields.
 
-Original Gs2Mesh repo: https://github.com/limacv/Gs2Mesh
+Original Gs2Mesh repo: [https://github.com/yanivw12/gs2mesh/tree/main/evaluation]
 
 License: BSD 3-Clause License
 

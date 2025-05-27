@@ -26,5 +26,5 @@ This repository packages the [Gs2Mesh](https://github.com/limacv/Gs2Mesh) pipeli
 
 Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/gs2mesh-docker-pipeline.git
+git clone https://github.com/
 cd gs2mesh-docker-pipeline

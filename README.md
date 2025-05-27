@@ -56,10 +56,11 @@ License: BSD 3-Clause License
 Any modifications in this repo are experimental and meant for testing and extension purposes only.
 
 🧪 Status
-✅ Dockerized core pipeline
-✅ Working with synthetic stereo depth
-🔄 Integrating point completion
-📌 Planned: Full stereo → mesh pipeline with fill-in
+
+- ✅ Dockerized core pipeline
+- ✅ Working with synthetic stereo depth
+- 🔄 Integrating point completion
+- 📌 Planned: Full stereo → mesh pipeline with fill-in
 
 🤝 Contributions
 If you'd like to contribute to this repo or upstream improvements, feel free to open an issue or submit a pull request.
